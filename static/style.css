@@ -1,0 +1,13 @@
+.banner{
+    background-color: chartreuse;
+    width: 300%;
+    height: 100px;
+    margin-top: 10px;
+}
+.banner-text{
+    left: 50%;
+    right: 100%;
+    text-align: left;
+    position: absolute;
+    transform: inherit;
+}
